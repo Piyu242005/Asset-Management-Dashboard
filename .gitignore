@@ -1,0 +1,13 @@
+# Node/Next
+node_modules/
+.next/
+
+# Python
+.venv/
+__pycache__/
+
+# Build / env / db
+dist/
+out/
+.env
+*.db
