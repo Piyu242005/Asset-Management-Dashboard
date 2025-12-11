@@ -15,16 +15,33 @@ A comprehensive asset management dashboard to track your financial, tangible, an
 ## Screenshots
 
 ### Dashboard
-Overview of your portfolio health.
-![Dashboard](screenshots/dashboard.png)
-
-### Asset Management
-List and manage all your assets in one place.
-![Assets](screenshots/assets.png)
+Overview of your portfolio health.  
+![Dashboard](screenshots/Dashboard.jpeg)
 
 ### Professional Profile
-Manage your personal information and settings.
-![Profile](screenshots/profile.png)
+Manage your personal information and settings.  
+![Profile](screenshots/Profile.jpeg)
+
+### Financial Management
+Track expenses, savings, and financial performance.  
+![Financial Management](screenshots/financial management.jpeg)
+
+### Inventory
+View and manage all inventory items.  
+![Inventory](screenshots/inventory.jpeg)
+
+### Maintenance
+Monitor maintenance tasks and schedules.  
+![Maintenance](screenshots/maintenance.jpeg)
+
+### Reports
+Generate and view analytical reports.  
+![Reports](screenshots/reports.jpeg)
+
+### Schedule
+View activity timelines, reminders, and upcoming events.  
+![Schedule](screenshots/schedule.jpeg)
+
 
 ## Support
 
